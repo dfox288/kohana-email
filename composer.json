@@ -1,0 +1,8 @@
+{
+	"minimum-stability": "dev",
+    "name": "external/email",
+    "type": "kohana-module",
+    "description": "Kohana wrapper module for swiftmailer",
+    "keywords": ["kohana", "email"],
+    "homepage": "https://github.com/dfox288/kohana-email"
+}
